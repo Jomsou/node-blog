@@ -4,7 +4,9 @@
 >这是学习了node一段时间后写的一个demo，主要用于理解前后端数据交互。
 ## 知识点
 1.jQuery+zepto+node+Express
+
 2.移动端布局(rem单位的使用)
+
 ## 技术栈
 jQuery+zepto+node+Express
 
@@ -28,6 +30,7 @@ blog.sql
 ```
 node server.js
 ```
-Todo: 
-[] webpack打包
+### Todo: 
+
+[]webpack打包
 
